@@ -77,6 +77,17 @@ hashlib, os, shutil, threading, and concurrent.futures for backend operations
 
 
 
+💖 Support the Project
+If you find this tool helpful and want to support its development, consider making a small donation. Your contribution helps me maintain and improve this project over time.
+Thank you for your support!
+
+[💸 Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=WRDMEFVCXSP56)
+
+
+
+
+
+
 
 
 
